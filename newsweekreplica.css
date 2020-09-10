@@ -1,0 +1,301 @@
+.first-div{
+    background-color: red;
+padding-bottom: 10px;
+color: #ffff;
+}
+.login-code{
+    color: #ffff;
+    text-align: right;
+}
+.newsweek-code{
+    text-align: center;
+    color: #ffff;
+}
+.log{
+    padding-top:20px ;
+}
+.labor{
+    position:absolute;top: 15px;right: 150px;
+    text-align:center;
+    color:black;
+    border-radius:20px;
+    background-color: yellow;
+    width: 180px;
+}
+.last-firstdiv{
+columns: 120%;
+}
+.space{
+    padding: 0px 90px;
+}
+.space21 {
+    margin-left: 50px;
+    position: relative;
+}
+.space21::before{
+    content: "US";
+    position:absolute;bottom:20px;
+    left: 0;
+    color: red;
+} 
+.space2{
+    margin-left: 50px;  
+}
+.space3{
+    margin-left: 40px;
+}
+.first-para{
+    float: right;
+    
+}
+.space4{
+    position: absolute;left:8px;
+}
+.first-para1{
+    position: relative;top: 20px;left: 140px
+}
+.first-para2{
+    position: relative;left: 160px
+}
+.second-col, .first-col{
+    margin-top: 30px;
+
+}
+.horizone{
+    position: relative;bottom: 15px;
+}
+.vs{
+    border-radius: 400%;
+    background-color: black;
+    color: white;
+    position: relative;bottom: 45px;left:160px;
+}
+.zone{
+    margin-left: 7px;
+}
+.first-para3{
+    float: left;
+    position: relative;top:30px;
+}
+.toggle-button{
+    color: #fff;
+}
+.space3{
+    margin-right: 10px;
+}
+.space33{
+    margin-right:130px;
+    position: relative;right: 15px;
+}
+.space333{
+    position: relative;bottom: 230px;left:325px;
+}
+.thirddiv-secondimage{
+    position: relative;left: 10px;top: 10px;
+}
+.image-index{
+    position: relative;bottom:60px;
+}
+.image-indextext{
+    position: relative;bottom: 60px;left: 70px;
+}
+.index1-text{
+    position: relative;left: 70px;bottom: 60px;
+}
+.close-line{
+    position: relative;bottom: 60px;
+}
+.index11-text{
+    position: relative;bottom:120px;left: 70px;
+}
+.close-line1{
+    position: relative;bottom: 120px;
+}
+.image-index3{
+    position: relative;bottom: 120px;
+}
+.index1-text1{
+    position: relative;bottom: 180px;left: 70px;
+}
+.close-line2{
+    position: relative;bottom: 180px;
+}
+.first-para7{
+    position: relative;left: 100px;top: 40px;
+}
+.feature{
+    position: relative;left:60px;
+}
+.newt{
+    position: relative;bottom: 180px;
+}
+.newt-text{
+    position: relative;bottom: 240px;left: 70px;
+}
+.newt-line{
+    position: relative;bottom:240px;
+}
+.more-story{
+    position: relative;bottom: 200px;left: 100px;
+}
+.mmore-story{
+    position:relative; bottom:100px;
+}
+.bline{
+    position: relative;bottom:90px;
+}
+.bline1{
+    position: relative;bottom: 190px;
+}
+.more-story1{
+position: relative;bottom: 100px;left: 100px;
+}
+.mmore-story2{
+    position: relative;bottom:190px ;
+}
+.more-story2{
+    position: relative;bottom: 290px;left: 100px;
+}
+.mmore-story3{
+position: relative;bottom: 270px;
+}
+.more-story3{
+position: relative;bottom: 370px;left: 100px;
+}
+.bline3{
+    position: relative;bottom: 520px;
+}
+.mmore-story4{
+position: relative;bottom: 500px;
+}
+.more-story4{
+position: relative;bottom: 460px;left: 100px;
+}
+.bline4{
+    position: relative;bottom: 460px;
+}
+.mmore-story5{
+position: relative;bottom: 450px;
+}
+.more-story5{
+position: relative;bottom: 550px;left: 100px; 
+}
+.bline5{
+position: relative;bottom: 550px;
+}
+.mmore-story6{
+position: relative;bottom: 550px;
+}
+.more-story6{
+position: relative;bottom: 650px;left: 110px;
+}
+.bline6{
+position: relative;bottom: 650px;
+}
+.mmore-story7{
+    position: relative;bottom:650px ;
+}
+.more-story7{
+    position: relative;bottom: 750px;left: 100px;
+}
+.bline7{
+    position: relative;bottom:740px;
+}
+.more-story8{
+    position: relative;bottom: 840px;left: 115px;
+}
+.mmore-story8{
+    position: relative;bottom: 740px;
+}
+.bline8{
+    position: relative;bottom: 830px;
+}
+.mmore-story9{
+    position: relative;bottom: 830px;
+}
+.more-story9{
+    position: relative;bottom: 930px;left: 100px;
+}
+.bline9{
+    position: relative;bottom: 920px;
+}
+.mmore-story10{
+    position: relative;bottom: 920px;
+}
+.more-story10{
+    position: relative;bottom: 1020;left: 100;
+}
+.button-email{
+margin: 5px 20px;
+}
+.card-button{
+    background-color: slategrey;
+    margin: 20px 40px;
+}
+.cardtitle-title{
+    margin: 5px 30px 0px;
+}
+.bcolor{
+    background-color: red;
+    color: white;
+    position: relative;top: 42px;
+}
+.nav-link:hover{
+    color:red;
+    
+}
+.first-hline{
+    position: relative;bottom: 25px;
+}
+.navv{
+    position: relative;bottom: 35px;
+}
+.vertical{
+
+    border-left: 1px solid black;height: 30px;
+    position: relative;bottom:10px ;
+    padding-bottom:30px ;
+    margin-top: 15px;
+}
+.in-pic1{
+    color: red;
+    position: relative;bottom:25px;left: 40px;
+    background-color: white;
+    width: 70px;
+}
+.in-pic2{
+    color: red;
+    position: relative;bottom:25px;left:50px ;
+    background-color: white;
+    width: 70px;
+}
+.in-pic3{
+    color: red;
+    position: relative;bottom: 25;left:50px ;
+    background-color: white;
+    width: 70px;
+}
+.in-pic4{
+    color: red;
+    position: relative;bottom:25px;left: 50px;
+    background-color: white;
+    width: 85px;
+}
+.in-pic5{
+    color: red;
+    position: relative;bottom:25px ;left: 50px;
+    background-color: white;
+    width: 80px;
+}
+
+@media(max-width:1100px){
+
+.labor{
+position: absolute;right: 0px;
+
+
+}
+
+
+
+}
